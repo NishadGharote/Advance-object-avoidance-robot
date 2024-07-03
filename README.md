@@ -33,12 +33,8 @@ ESP32 Pin	Description
 22-	TSOP Sensor
 23-	Servo Motor
 Installation
-Clone this repository:
 
-sh
-Copy code
-git clone https://github.com//NishadGharote//Advance-object-avoidance-robot//edit//main//README.md//advanced-object-avoidance-robot.git
-Open the project in the Arduino IDE or your preferred development environment.
+
 
 Connect your ESP32 to your computer.
 
